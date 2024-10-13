@@ -1,1 +1,1 @@
-# https://github.com/zellyo-digital0/Holiday-Nation-/slokita
+ https://zellyo-digital0.github.io/slokita
