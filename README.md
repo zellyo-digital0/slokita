@@ -1,2 +1,1 @@
-# slokita
-Real Meme Coin In Solana Island
+# https://github.com/zellyo-digital0/Holiday-Nation-/slokita
